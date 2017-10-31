@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<subject>
+	<quiz category="Programming Languages">
+		<opt choice="C"/>
+		<opt choice="C++"/>
+		<opt choice="JAVA"/>
+	</quiz>
+	<quiz category="Web Designing">
+		<opt choice="HTML"/>
+		<opt choice=".Net"/>
+		<opt choice="PHP"/>
+	</quiz>	
+	<quiz category="Hardware">
+		<opt choice="Networking"/>
+	</quiz>
+	<quiz category="Others">
+		<opt choice="System Programming"/>
+		<opt choice="Operating System"/>
+	</quiz>
+</subject>
